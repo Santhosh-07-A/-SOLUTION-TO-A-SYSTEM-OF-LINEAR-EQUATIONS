@@ -29,7 +29,8 @@ X = np.linalg.solve(A, B)
 print(np.round(X))
 
 ## Output:
-<img width="582" height="299" alt="Screenshot 2026-05-28 195330" src="https://github.com/user-attachments/assets/9f8dd0a6-87ae-4e4d-8fde-0a0c229ee630" />
+<img width="1920" height="1029" alt="Screenshot 2026-05-28 195638" src="https://github.com/user-attachments/assets/ffa8d53d-9c52-46da-a76e-77caffdd3eac" />
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
